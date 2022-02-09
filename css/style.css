@@ -11,6 +11,37 @@ body {
   max-width: 320px;
   margin: auto;
   background-color: black;
+  padding: 21px 26px 19px 27px;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.fond-image {
+  background-image: url(../img/ligne-de-code.png);
+  border: 2px solid white;
+}
+
+header {
+  padding: 56px 81px 27px 30px;
+}
+
+h1 {
+  color: white;
+  font-family: 'Montserrat', sans-serif; 
+  font-size: 19px;
+}
+
+.titre-principale {
+  color: #2afca6;
+  font-style: italic;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 100;
+}
+
+header p {
+  color: white;
 }
 
 div {
