@@ -87,3 +87,8 @@ figcaption {
   font-family: 'Open Sans', sans-serif;
   padding: 14px 30px 9px 10px;
 }
+
+.button {
+  margin-top: 34px; 
+  font-family: 'Open Sans', sans-serif;
+}
