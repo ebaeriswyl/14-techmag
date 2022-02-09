@@ -67,6 +67,7 @@ article {
 
 figure {
   margin: 0px; 
+  /* box-shadow: 7px 7px 7px 7px #a9a9a9; */
 }
 
 .post-info {
@@ -80,4 +81,9 @@ figure {
 
 .author {
   color: #2afca6;
+}
+
+figcaption {
+  font-family: 'Open Sans', sans-serif;
+  padding: 14px 30px 9px 10px;
 }
