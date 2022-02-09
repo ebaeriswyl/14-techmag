@@ -12,3 +12,11 @@ body {
   margin: auto;
   background-color: black;
 }
+
+div {
+  background-color: #2afca6;
+}
+
+article {
+  background-color: white;
+}
