@@ -18,6 +18,11 @@ p {
   font-family: 'Open Sans', sans-serif;
 }
 
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+
 .fond-image {
   background-image: url(../img/ligne-de-code.png);
   border: 2px solid white;
@@ -46,6 +51,9 @@ header p {
 
 div {
   background-color: #2afca6;
+  padding: 32px 36px 51px 31px;
+  margin-top: 20px;
+  color: #0e6647;
 }
 
 article {
