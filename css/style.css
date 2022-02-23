@@ -24,7 +24,7 @@ h2 {
   font-size: 18px;
 }
 
-.fond-image {
+.picture-background {
   background-image: url(../img/ligne-de-code.png);
   border: 2px solid white;
 }
@@ -39,7 +39,7 @@ h1 {
   font-size: 19px;
 }
 
-.titre-principale {
+.main-title {
   color: #2afca6;
   font-style: italic;
   font-family: 'Open Sans', sans-serif;
